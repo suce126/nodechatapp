@@ -3,6 +3,8 @@ This is a node.js online chat demo app.
 
 To run the project:
 
-Clone this repo
-Run npm install
-Run nodemon server.js
+1.Clone this repo
+
+2.Run npm install
+
+3.Run nodemon server.js
